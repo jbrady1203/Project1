@@ -4,7 +4,8 @@
 
 # SRC 
 ### Code installation
-Ensure that you have python3 installed on your computer. While not required, it is also suggested that you run the following installation commands within a python virtual environment. Information about setting up a virtual environment can be found here[https://docs.python.org/3/library/venv.html].
+Ensure that you have python3 installed on your computer. While not required, it is also suggested that you run the following installation commands within a python virtual environment. Information about setting up a virtual environment can be found [here](https://docs.python.org/3/library/venv.html).
+
 To install this code make sure to install the following packages:
 - ```pip install scikit-learn```
 - ```pip install textblob```
@@ -13,7 +14,13 @@ To install this code make sure to install the following packages:
 - ```pip install keras```
 - ```pip install nltk```
 ### Code Usage
-To run the Keras 
+To run the Keras package use the command ```python3 SRC/Keras.py```
+The hyperparameters that you can modify on the keras package are ```vocab_size```, ```embedding_dim```, ```max_length```, and ```num_epochs```.
+
+To run the TextBlob package use the command ```python3 SRC/TextBlob.py```
+TextBlob is a pre-trained package, so there are no hyperparameters to adjust.
+
+
 
 # Data 
 | Attribute Name | Data Type | Required | Description | Example |
@@ -23,7 +30,9 @@ To run the Keras
 | Political Lean | String | Yes | "Liberal" if the article has a liberal perspective on climate change, otherwise "Conservatice" | "Liberal" |
 
 # Figures
-
+| Figure | Description |
+| -------------- | --------- |
+| Frequency of Political Lean in Articles | This plot shows the number of articles that lean liberal or conservative 
 
 # References 
 
@@ -33,3 +42,4 @@ To run the Keras
 <a id="4">[4]</a>  “What is climate change?,” United Nations, https://www.un.org/en/climatechange/what-is-climate-change (accessed Sep. 10, 2023). <br>
 <a id="5">[5]</a>  A. Mitchell, “Section 1: Media sources: Distinct favorites emerge on the left and right,” Pew Research Center’s Journalism Project, https://www.pewresearch.org/journalism/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/ (accessed Sep. 10, 2023). <br>
 <a id="6">[6]</a>  C. Russell, “Climate change in the media: Public perception and the responsibility of news outlets,” Earth Day, https://www.earthday.org/climate-change-in-the-media-public-perception-and-the-responsibility-of-news-outlets/#:~:text=There%20are%20good%20steps%20being,87%2C000%20in%202020%20to%202021 (accessed Sep. 10, 2023). <br>
+<a id="6">[6]</a> <br>
