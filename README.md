@@ -52,5 +52,5 @@ Analysis Flowchart | This shows the structure we used to analyze our data | We u
 <a id="14">[14]</a> T. Tran, “Deep learning for sentiment analysis,” Kaggle, https://www.kaggle.com/code/tientd95/deep-learning-for-sentiment-analysis (accessed Sep. 17, 2023).<br>
 <a id="15">[15]</a> K. Team, “Keras Documentation: LSTM Layer,” Keras, https://keras.io/api/layers/recurrent_layers/lstm/ (accessed Sep. 17, 2023).<br>
 <a id="16">[16]</a> N. Van Otten, “Top 5 best sentiment analysis tools in Python & How to use them to get started,” Spot Intelligence, https://spotintelligence.com/2022/12/16/sentiment-analysis-tools-in-python/#Examples_of_how_to_do_sentiment_analysis_in_Python (accessed Sep. 17, 2023).<br>
-<a id="17">[17]</a> [Milestone 1 Document](https://docs.google.com/document/d/1RPxb62up4iGrQZO2CqC3ci4BGjlRUp7t4tXi-bIsiEo/edit?usp=sharing)
+<a id="17">[17]</a> [Milestone 1 Document](https://docs.google.com/document/d/1RPxb62up4iGrQZO2CqC3ci4BGjlRUp7t4tXi-bIsiEo/edit?usp=sharing)\
 <a id="18">[18]</a>[Milestone 2 Document](https://docs.google.com/document/d/1hkDPFE9-G6SREtNFBAGFkU9mRUYiwl0SrS5epVI_57E/edit?usp=sharing)
